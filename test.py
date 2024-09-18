@@ -59,7 +59,7 @@ async def play(ctx, url):
         await ctx.send("You need to be in a voice channel to play music.")
 
 # Token bot
-TOKEN = 'MTI4MzY1NjQyMjA1MTE1MTkwMw.GQoVSQ.yYCKrHekgGswqfugKxc-JKKa0HSqEztyz5vNMY'
+TOKEN = 'MTI4MzY1NjQyMjA1MTE1MTkwMw.GQdApd.feZ6T47Dk27oRegQhirAjhaUJdXmo-YKvLr4FA'
 
 # Menjalankan bot
 bot.run(TOKEN)
